@@ -9,6 +9,11 @@ A lightweight real-time crowd approximation system designed to help students dec
 - Simple UI showing live updates
 - Built using resource-light tools to maximize speed and accessibility
 
+## 🚀 Live Demo
+
+https://approximatecrowdmeter.netlify.app/
+
+
 ## 💡 Problem Statement
 Students waste time during exams trying to find seating or equipment. We aimed to give them an **approximation**, not exact numbers, to optimize decision-making.
 
